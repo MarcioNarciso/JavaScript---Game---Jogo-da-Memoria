@@ -9,7 +9,7 @@ Bem-vindo ao **Jogo da Memória**! Neste repositório, você encontrará um dive
 
 ### Como Jogar
 
-1. [Acesse o jogo]()
+1. [Acesse o jogo](https://marcionarciso.github.io/JavaScript---Game---Jogo-da-Memoria/)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ou
 
